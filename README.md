@@ -1,2 +1,2 @@
-# stickers
-X.app Stickeres
+# X.app – Stickers
+
